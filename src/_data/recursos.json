@@ -1,0 +1,20 @@
+[
+  {
+    "name": "nombre del recurso",
+    "description": "Descripcion del recurso",
+    "type": "Tipo del recurso (potcast, video, texto !IMPORTANTE! la escritura debe ser standar)",
+    "multimedia": "Link del recurso listo para embeber"
+  },
+  {
+    "name": "potcast",
+    "description": "Descripcion del potcast",
+    "type": "Potcast",
+    "multimedia": "https://www.youtube.com"
+  },
+  {
+    "name": "Video",
+    "description": "Descripcion del video",
+    "type": "Video",
+    "multimedia": "https://www.youtube.com"
+  }
+]

@@ -1,0 +1,35 @@
+@import url("./_vars.scss");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  transition: 0.2s;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100%;
+}
+
+body::-webkit-scrollbar {
+  width: 7px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: var(--color_oscuro);
+  border-radius: 5px;
+  height: 70%;
+}
+
+#root {
+  width: 100%;
+  min-height: 100%;
+}

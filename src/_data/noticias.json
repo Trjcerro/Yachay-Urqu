@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Titulo de la noticia",
+    "banner": "nombre del archivo del banner (con extención)",
+    "description": "descripción de las noticias",
+    "link": "vinculo de las noticias"
+  },
+  {
+    "title": "Noticia 1",
+    "banner": "noticia_1.png",
+    "description": "Esta es una descripción de la primera noticia",
+    "link": "https://link_de_la_primera_notica.com"
+  },
+  {
+    "title": "Noticia 2",
+    "banner": "noticia_2.png",
+    "description": "Esta es una descripción de la segunda noticia",
+    "link": "https://link_de_la_segunda_notica.com"
+  }
+]

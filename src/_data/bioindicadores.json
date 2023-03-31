@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Nomnbre del bioindicador",
+    "img": "Nombre del archivo de la imagen (con extención)",
+    "description": "Descripción del bioindicador",
+    "location": "Localicación del bioindicador",
+    "habitat": [
+      { "name": "Nombre del hábitat", "img": "Nombre archivo", "description": "Descripción del habitat" },
+      { "name": "Nombre del hábitat", "img": "Nombre archivo", "description": "Descripción del habitat" },
+      { "name": "Nombre del hábitat", "img": "Nombre archivo", "description": "Descripción del habitat" }
+    ]
+  },
+  {
+    "name": "Ejemplo 1",
+    "img": "ejemplo_1.png",
+    "description": "Un bioindicador es un organismo o grupo de organismos que se utiliza para evaluar la calidad del medio ambiente. Pueden ser plantas, animales o microorganismos que responden a los cambios ambientales, como la contaminación del aire, el agua o el suelo, de manera que su presencia, ausencia o cambios en su comportamiento pueden indicar el estado de salud del ecosistema. Los bioindicadores son una herramienta importante para el monitoreo y la gestión ambiental.",
+    "location": "Colombia - Bogotá",
+    "habitat": [
+      { "name": "habitat 1", "img": "habitat_1.png", "description": "Este es el primer habitat" },
+      { "name": "habitat 2", "img": "habitat_2.png", "description": "Este es el segundo habitat" },
+      { "name": "habitat 3", "img": "habitat_3.jpg", "description": "Este es el tercer habitat" }
+    ]
+  },
+  {
+    "name": "Ejemplo 2",
+    "img": "ejemplo_2.jpg",
+    "description": "Un bioindicador es un organismo o grupo de organismos que se utiliza para evaluar la calidad del medio ambiente. Pueden ser plantas, animales o microorganismos que responden a los cambios ambientales, como la contaminación del aire, el agua o el suelo, de manera que su presencia, ausencia o cambios en su comportamiento pueden indicar el estado de salud del ecosistema. Los bioindicadores son una herramienta importante para el monitoreo y la gestión ambiental.",
+    "location": "España - Madrid",
+    "habitat": [
+      { "name": "habitat 1", "img": "habitat_1", "description": "Este es el primer habitat" },
+      { "name": "habitat 2", "img": "habitat_2", "description": "Este es el segundo habitat" },
+      { "name": "habitat 3", "img": "habitat_3", "description": "Este es el tercer habitat" }
+    ]
+  }
+]
