@@ -1,20 +1,38 @@
 [
   {
-    "title": "Titulo de la noticia",
-    "banner": "nombre del archivo del banner (con extención)",
-    "description": "descripción de las noticias",
-    "link": "vinculo de las noticias"
+    "title": "Ciudad Bolívar recibe la feria de servicios",
+    "banner": "NOTICIA_1.jpg",
+    "description": "Bogotá, 16 de septiembre de 2022. (@AmbienteBogota). Los habitantes de Ciudad Bolívar pueden prepararse para recibir la Feria Móvil de Servicios que se llevará a cabo este sábado 17 de septiembre en la diagonal 62 sur # 20F ¿ 20, en el barrio San Francisco. Durante la jornada, que empieza a las 9:00 de la mañana, los ciudadanos podrán acceder a la amplia oferta de trámites y servicios ambientales que ofrece la Secretaría de Ambiente. Los módulos de atención estarán habilitados hasta la 1 de la tarde y los ciudadanos podrán aclarar inquietudes, recibir asesoría y adelantar cualquiera de los 54 trámites y servicios de la Secretaría de Ambiente. Estos espacios organizados, por la Administración distrital, se convierten en una oportunidad para que las familias puedan acercarse y adelantar los respectivos trámites ambientales que requieran. La Administración de la alcaldesa Claudia López está llegando a todas las localidades para facilitar y atender los diferentes procesos y requerimientos de la ciudadanía, especialmente de las actividades, trámites y servicios ambientales.",
+    "link": "https://www.ambientebogota.gov.co/noticias-de-ambiente1/-/asset_publisher/CWsNLtoGa4f6/content/ciudad-bolivar-recibe-la-feria-de-servicios "
   },
   {
-    "title": "Noticia 1",
-    "banner": "noticia_1.png",
-    "description": "Esta es una descripción de la primera noticia",
-    "link": "https://link_de_la_primera_notica.com"
+    "title": "Festival Quebrada Limas en Ciudad Bolívar este sábado ¡Habrá olla comunitaria! ",
+    "banner": "NOTICIA_2.jpg",
+    "description": "Enalteciendo la labor de los adultos mayores en la preservación de los recursos hídricos en la localidad de Ciudad Bolívar, la Alcaldía Local llevará a cabo el Festival Quebrada Limas. El evento contará con una gran jornada de educación ambiental en el barrio San Francisco, en la carrera 20D # 65 sur - 49. El festival se realiazará de 10:00 a.m. a 1:00 p.m. La jornada dispondrá, además, de una olla comunitaria para el disfrute de los asistentes. Arma parche y asiste al Festival Quebrada Limas.",
+    "link": "https://bogota.gov.co/mi-ciudad/localidades/ciudad-bolivar/festival-quebrada-limas-en-c-bolivar-el-sabado-primero-de-abril-2023"
   },
   {
-    "title": "Noticia 2",
-    "banner": "noticia_2.png",
-    "description": "Esta es una descripción de la segunda noticia",
-    "link": "https://link_de_la_segunda_notica.com"
+    "title": "Caminatas ecológicas en Bogotá: inscríbete y participa en los recorridos de abril",
+    "banner": "NOTICIA_3.jpg",
+    "description": "Bogotá, 31 de marzo de 2023. (@AmbienteBogota). Para abril, la Secretaría de Ambiente abrió las inscripciones para asistir a cuatro caminatas ecológicas que se llevarán a cabo en las localidades de Usaquén, Fontibón, Santa Fe y Ciudad Bolívar. Estas actividades gratuitas están dirigidas a toda la población y son organizadas por los equipos de educación ambiental de la Oficina de Participación Educación y Localidades (OPEL), de la Secretaría de Ambiente, con el propósito de promover el reconocimiento y aprendizaje del ambiente en Bogotá. Quienes deseen asistir a estas caminatas y conectarse con la biodiversidad de la ciudad, deben registrarse previamente en el respectivo formulario.",
+    "link": "https://www.ambientebogota.gov.co/es/noticias-de-ambiente/-/asset_publisher/Fziya03up5Z6/content/caminatas-ecologicas-en-bogota-inscribete-y-participa-en-los-recorridos-de-abril?_101_INSTANCE_Fziya03up5Z6_redirect=https%3A%2F%2Fwww.ambientebogota.gov.co%2Fes%2Fnoticias-de-ambiente%3Fp_p_id%3D101_INSTANCE_Fziya03up5Z6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_pos%3D1%26p_p_col_count%3D2&redirect=https%3A%2F%2Fwww.ambientebogota.gov.co%2Fes%2Fnoticias-de-ambiente%3Fp_p_id%3D101_INSTANCE_Fziya03up5Z6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_pos%3D1%26p_p_col_count%3D2"
+  },
+  {
+    "title": "Mejora la calidad del aire: condiciones meteorológicas favorables permiten levantar la alerta preventiva.",
+    "banner": "NOTICIA_4.jpg",
+    "description": "Bogotá, 5 de abril de 2023. (@AmbienteBogota). Luego de más de una semana de altas concentraciones de material particulado en la ciudad, la Secretaría de Ambiente levanta la alerta preventiva por calidad del aire que había decretado el pasado 23 de marzo, por la influencia de incendios forestales en la Orinoquía, Meta y Antioquia. En el suroccidente de Bogotá llevábamos más de 8 días en una declaratoria de alerta por calidad del aire, afortunadamente en las últimas horas se cumplieron las condiciones establecidas en la norma para levantar esa alerta y en este momento volvimos a condiciones favorables, indicó la secretaria de Ambiente, Carolina Urrutia. La reducción de material particulado se debe principalmente a las condiciones meteorológicas favorables, la dirección de vientos, que ha permitido la ventilación de la atmósfera, y a la disminución de los incendios forestales y puntos calientes que se presentaron en varias regiones del país.  La medida se toma luego de evidenciar que más del 50 % de las estaciones de la Red de Monitoreo de Calidad del Aire presentara niveles favorables y moderados por más de 48 horas en la zona sur occidental de la ciudad, como lo establece la Resolución 2254 de 2017",
+    "link": "https://www.ambientebogota.gov.co/noticias-de-ambiente/-/asset_publisher/Fziya03up5Z6/content/calidad-del-aire-en-bogota-en-semana-santa-2023?_101_INSTANCE_Fziya03up5Z6_redirect=https%3A%2F%2Fwww.ambientebogota.gov.co%2Fnoticias-de-ambiente%3Fp_p_id%3D101_INSTANCE_Fziya03up5Z6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_pos%3D1%26p_p_col_count%3D2&redirect=https%3A%2F%2Fwww.ambientebogota.gov.co%2Fnoticias-de-ambiente%3Fp_p_id%3D101_INSTANCE_Fziya03up5Z6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_pos%3D1%26p_p_col_count%3D2"
+  },
+  {
+    "title": "Distrito levanta Alerta Fase I de calidad del aire en el suroccidente de Bogotá.",
+    "banner": "NOTICIA_5.jpg",
+    "description": "Durante las últimas horas, la Red de Monitoreo de Calidad del Aire de Bogotá registró una reducción en la concentración de material particulado 2.5, situación que le permitió a la Secretaría de Ambiente retirar la Alerta Fase I que se había decretada el pasado viernes 3 de febrero.",
+    "link": "https://bogota.gov.co/mi-ciudad/ambiente/mejora-calidad-del-aire-en-bogota-y-ambiente-levanta-alerta-fase-i "
+  },
+  {
+    "title": "Actividades Ambientales",
+    "banner": "NOTICIA_6.jpg",
+    "description": "La Secretaría Distrital de Ambiente, ofrece una diversa lista de actividades ambientales, las cuales están dirigidas a los diferentes grupos poblaciones de la ciudad. Continuamente los equipos de profesionales de los diferentes temas ambientales, están desarrollando e implementando estrategias y mecanismos, que permitan el reconocimiento y el aprendizaje del ambiente de nuestra ciudad.",
+    "link": "https://www.ambientebogota.gov.co/oferta-de-actividades-ambientales "
   }
 ]

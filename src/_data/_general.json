@@ -1,3 +1,11 @@
 {
-  "titlePage": "YACHAY URQU"
+  "titlePage": "YACHAY URQU",
+  "home": {
+    "titleMain": "Cerro Seco: Historia, Cultura y Biodiversidad desde la Perspectiva de los Pueblos Indígenas",
+    "textIntroductMain": "Bienvenidos al sitio web de Cerro Seco, una comunidad indígena ubicada en el corazón de la región andina de nuestro país. Este lugar ha sido el hogar ancestral de los pueblos indígenas durante siglos y es un importante centro de diversidad cultural y biodiversidad. En este sitio web, podrás conocer la historia, la cultura y la biodiversidad de Cerro Seco, desde la perspectiva de sus habitantes originarios. Explorarás sus tradiciones y costumbres, su relación con la naturaleza y su lucha por la defensa de sus derechos y su patrimonio cultural. Esperamos que disfrutes de esta experiencia educativa y enriquecedora."
+  },
+  "bioindicadores": {
+    "titleMain": "Buscador de bioindicadores",
+    "textIntroductMain": "¡Descubre los bioindicadores más interesantes de nuestra región! En nuestro buscador encontrarás información detallada sobre su nombre, imagen, descripción, ubicación, departamento, municipio, localidad, coordenadas, latitud, longitud, elevación y hábitat. Conoce más sobre estos organismos y su importante papel en nuestro ecosistema. ¡Empieza a explorar ahora mismo!"
+  }
 }

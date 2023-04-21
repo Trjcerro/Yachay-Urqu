@@ -4,11 +4,11 @@ body .header {
   justify-content: center;
 
   background-color: var(--azul) !important;
+  border-radius: 3rem 3rem 0 0;
   opacity: 5;
   color: var(--claro);
-  max-width: 108rem;
+  width: 100%;
   font-size: 1.6rem;
-  margin: 9rem 3rem 2rem 3rem;
 
   .container {
     display: flex;
@@ -44,6 +44,23 @@ body .header {
         margin: auto;
         margin-bottom: 2rem;
       }
+    }
+  }
+}
+
+// Responsive
+
+@media (min-width: 991px) {
+  body .header .container {
+    flex-direction: row;
+    padding: 0 2rem;
+
+    a {
+      width: auto;
+    }
+
+    .navbar-nav {
+      padding-left: 20%;
     }
   }
 }

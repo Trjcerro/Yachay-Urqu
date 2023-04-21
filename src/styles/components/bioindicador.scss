@@ -1,0 +1,110 @@
+.bioindicador {
+  display: flex !important;
+  gap: 4rem;
+  flex-direction: column;
+  align-items: center;
+
+  width: 100%;
+  max-width: 27.5rem;
+  background-color: var(--claro) !important;
+  border: none !important;
+  border-radius: 2rem;
+  padding: 1rem;
+  margin: 0;
+
+  .card {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+    padding: 1rem;
+
+    figure {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      width: 100%;
+      max-height: 20rem;
+      overflow: hidden; 
+
+      img {
+        width: 100%;
+      }
+    }
+
+    h2 {
+      font-size: 2rem;
+    }
+
+    .list-group-item {
+      font-size: 1.6rem;
+    }
+  }
+
+  article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+
+    box-shadow: none;
+
+    h2 {
+      background-color: var(--azul);
+      color: var(--claro);
+      font-size: 1.8rem;
+      text-align: center;
+      text-transform: uppercase;
+      padding: 1rem;
+    }
+
+    #hexagono {
+      position: relative;
+      width: 45vw;
+      max-width: 30rem;
+      height: 45vw;
+      max-height: 30rem;
+      background-size: cover;
+      background-position: center;
+      clip-path: polygon(25% 8%, 75% 8%, 100% 50%, 75% 92%, 25% 92%, 0% 50%);
+      overflow-x: initial;
+
+      img {
+        width: 100%;
+      }
+    }
+
+    span {
+      padding: 1rem;
+      background-color: grey;
+      border-radius: 1rem;
+      color: var(--claro);
+      font-size: 1.6rem;
+      margin-bottom: 2rem;
+    }
+
+    p {
+      background-color: var(--azul);
+      color: var(--claro);
+      font-size: 1.6rem;
+      text-align: center;
+      max-width: 50rem;
+
+      padding: 3rem;
+    }
+  }
+
+  article:nth-child(2) {
+    flex-direction: row;
+
+    div {
+      display: flex;
+      flex-direction: column;
+      align-items: stretch;
+      justify-content: center;
+    }
+  }
+}

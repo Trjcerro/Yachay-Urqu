@@ -1,20 +1,116 @@
 [
   {
-    "name": "nombre del recurso",
-    "description": "Descripcion del recurso",
-    "type": "Tipo del recurso (potcast, video, texto !IMPORTANTE! la escritura debe ser standar)",
-    "multimedia": "Link del recurso listo para embeber"
+    "name": "NUESTRO CERRO, NUESTRO BARRIO, NUESTRA CASA La insurgencia como defensora del hábitat, barrio Potosí, Ciudad Bolívar",
+    "description": "Plantear una propuesta urbana general que garantice la protección y recuperación de la ronda de las quebradas Zanjón de la Muralla y Zanjón del Ahorcado, asegurando el reasentamiento de la población ubicada tanto en la ronda de las quebradas como en las zonas de alto riesgo por remoción en masa. Lo anterior, dentro del mismo territorio a través de la reestructuración de los bordes de las rondas de quebrada, con el desarrollo de un anteproyecto arquitectónico habitacional localizado en la franja reestructurada.",
+    "type": "TEXTO",
+    "multimedia": "https://repository.javeriana.edu.co/bitstream/handle/10554/54352/Documento%20escrito%20trabajo%20de%20grado%20-%20Luisa%20Juliana%20Atara%20Reyna.pdf?sequence=1"
+  },
+  {
+    "name": "SENTIDOS DE LUGAR EN TORNO AL PARQUE ECOLÓGICO CERRO SECO. PROPUESTA DE CREACIÓN EN DANZA “DESDE LAS ALTURAS”",
+    "description": "SENTIDOS DE LUGAR EN TORNO AL PARQUE ECOLÓGICO CERRO SECO. PROPUESTA DE CREACIÓN EN DANZA “DESDE LAS ALTURAS”",
+    "type": "TEXTO",
+    "multimedia": "https://repository.udistrital.edu.co/bitstream/handle/11349/28269/Pin "
+  },
+  {
+    "name": "Elementos estratégicos para la conservación de Cerro Seco, Ciudad Bolívar: desde las visiones sobre desarrollo de los actores sociales entre el 2007– 2017",
+    "description": "Proponer elementos estratégicos para la conservación de Cerro Seco, Ciudad Bolívar, involucrando las visiones de los actores sociales entre 2007 y 2017",
+    "type": "TEXTO",
+    "multimedia": "https://repository.udistrital.edu.co/bitstream/handle/11349/13045/Gal "
+  },
+  {
+    "name": "Por el cual se reconoce como Área de Especial Importancia Ecológica y se dictan lineamientos para la adopción de Estrategias Complementarias de Conservación para el parque ecológico Cerro Seco",
+    "description": "Dictar los lineamientos necesarios que deberá seguir la administración distrital para promover y adoptar Estrategias Complementarias de Conservación para el parque ecológico Cerro Seco, mediante la implementación de acciones enfocadas en la consolidación de su cobertura vegetal.",
+    "type": "TEXTO",
+    "multimedia": "https://www.celionievesherrera.org/wp-content/uploads/2021/05/PA-147-21-Parque-ecologico-Cerro-Seco.pdf"
+  },
+  {
+    "name": "Trabajo de campo Flora de Bogotá: Cerro Seco",
+    "description": "La subdirección científica del jardín botánico de Bogotá, en el marco del proyecto Flora de Bogotá adelanta la caracterización de la flora de Cerro Seco, sector ubicado en la localidad Ciudad Bolívar.",
+    "type": "TEXTO",
+    "multimedia": "https://florabog.jbb.gov.co/exp-cerro-seco.html"
+  },
+  {
+    "name": "ANALISIS DE LOS MARCOS INTERPRETATIVOS DE LA ACCION COLECTIVA CON LAS ORGANIZACIONES SOCIALES EN CIUDAD BOLIVAR FRENTE A LOS CONFLICTOS SOCIOAMBIENTALES PRODUCTO DE LA MINERIA DE CONSTRUCCION",
+    "description": "El componente de los objetivos de trabajo se refiere al conjunto de ideas alrededor de las líneas de acción con las cuales las organizaciones rigen o llevan su accionar en la comunidad y en el territorio.",
+    "type": "TEXTO",
+    "multimedia": "https://bdigital.uexternado.edu.co/server/api/core/bitstreams/d28a47c8-9901-4dc2-9a42-722c81cea8b4/content"
+  },
+  {
+    "name": "Colombia: las iniciativas para proteger la Reserva Thomas van der Hammen y Cerro Seco",
+    "description": "En el 2013 se protegió Cerro Seco con fundamento, entre otros, de un informe técnico de la SDA que estableció como objetos de conservación la alondra cornuda (Eremophila alpestris) y el ecosistema subxerofitico",
+    "type": "TEXTO",
+    "multimedia": "https://es.mongabay.com/2017/11/colombia-las-iniciativas-proteger-la-reserva-thomas-van-der-hammen-cerro-seco/"
+  },
+  {
+    "name": "CAMINAR LA MONTAÑA: CAJA DE HERRAMIENTA PARA UNA PEDAGOGÍA FEMINISTA AMBIENTAL POR LA DEFENSA DEL TERRITORIO CUERPO – TERRITORIO TIERRA",
+    "description": "Aportar a la generación de espacios de diálogos y organización para la defensa del territorio, la reivindicación y reparación de los derechos ambientales territoriales, mediante la herramienta pedagógica “Recorridos Ambientales Comunitarios” implementados por NSPM, en Ciudad Bolívar-Bogotá",
+    "type": "TEXTO",
+    "multimedia": "http://repository.pedagogica.edu.co/bitstream/handle/20.500.12209/17483/caminar_la_montana_caja_de_herramientas_para_una_pedagogia_feminista_ambiental%20.pdf?sequence=1&isAllowed=y"
+  },
+  {
+    "name": "Territorios Comunes. Investigación en co-labor: una apuesta por construir en conjunto en Bogotá",
+    "description": "Tan solo con leer el título del presente libro el lector puede hacerse una idea del profundo signifi ado que encierra el término commune (latín) en las acciones e investigaciones y el conocimiento que se gestiona en un iminu t o . Así que, mediante la lectura, es posible tener la oportunidad de entender, resignifi ar y posicionar lo común, a través de las experiencias relatadas.",
+    "type": "TEXTO",
+    "multimedia": "https://www.researchgate.net/publication/364421737_Territorios_Comunes_Investigacion_en_co-labor_una_apuesta_por_construir_en_conjunto_en_Bogota"
+  },
+  {
+    "name": "OBDC - Minería y Ladrilleras Sector Mochuelos, Bogotá - CAR",
+    "description": "Las ladrilleras, una de las principales industrias económicas del Mochuelo – Localidad de Ciudad Bolívar, concentradas en el Parque Industrial del Mochuelo, genera una desmedida explotación de los recursos naturales que afecta el suelo, las faldas de las montañas, el aire, el agua y la seguridad alimentaria del sector rural y urbano de la localidad. Así mismo, origina problemas subsecuentes, como contaminación auditiva, problemas sociales derivados de la falta de políticas laborales que garanticen los derechos básicos de los trabajadores y conflictos socioeconómicos derivados de este tipo de explotación, es casi nula la presencia de políticas estatales",
+    "type": "TEXTO",
+    "multimedia": "https://oaica.car.gov.co/vercaso2.php?id=46"
   },
   {
     "name": "potcast",
     "description": "Descripcion del potcast",
     "type": "Potcast",
-    "multimedia": "https://www.youtube.com"
+    "multimedia": ""
   },
   {
-    "name": "Video",
-    "description": "Descripcion del video",
-    "type": "Video",
-    "multimedia": "https://www.youtube.com"
+    "name": "Alondra cornuda, Eremophila alpestris peregrina, Horned Lark, Sabana de Bogota, Aves de Bogota",
+    "description": "Alondra cornuda, Eremophila alpestris peregrina, Horned Lark, Sabana de Bogota, Aves de Bogota. Una de las especies mas raras de Colombia y presente únicamente en la sabana de Bogota, sufre una acelerada reducción de su hábitat (pastizales xerofiticos en zonas alto andinas) que debido a invasión del pasto Kikuyo, han perdido su cobertura natural en nuestra sabana. Estos pastizales, son la fuente de alimento (sus semillas) de esta alondra que cada día, tiene menos hábitat.",
+    "type": "VIDEO",
+    "multimedia": "https://www.youtube.com/watch?v=16oyCwn1CP0"
+  },
+  {
+    "name": "Replantamos confianza con la comunidad de Ciudad Bolívar",
+    "description": "DOCUMENTAL SOBRE COMO LA ALCALDIA TIENE PROCESOS EN LA LOCALIDAD DE CIUDAD BOLIVAR, INTERACTUANDO CON LOS LIDERES Y LIDEREZAS DE LA COMUNIDAD",
+    "type": "VIDEO",
+    "multimedia": "https://www.youtube.com/watch?v=6rjOTyHi4Rk"
+  },
+  {
+    "name": "Denuncias por venta ilegal de lotes en área protegida Cerro Seco en Ciudad Bolívar",
+    "description": "Líderes ambientales denunciaron la venta ilegal de terrenos en el sector de Cerro Seco en la localidad Ciudad Bolívar. Este punto es un ecosistema que alberga a más de 500 especies de flora y fauna. Otro de los graves problemas de la zona es la minería ilegal así como algunas prácticas de recreación. ",
+    "type": "VIDEO",
+    "multimedia": "https://www.youtube.com/watch?v=sspLyReCi8o"
+  },
+  {
+    "name": "Cerro seco - Ciudad Bolívar",
+    "description": "Practica formativa 1",
+    "type": "VIDEO",
+    "multimedia": "https://www.youtube.com/watch?v=L7mrTckZZKU&t=19s"
+  },
+  {
+    "name": "Parque Ecológico Cerro Seco Un Paraíso Olvidado",
+    "description": "TRABAJO REALIZADO POR ESTUDIANTES ALEDAÑOS AL ECOSISTEMA",
+    "type": "VIDEO",
+    "multimedia": "https://www.youtube.com/watch?v=jJ3ET2zr2Sk&t=2s"
+  },
+  {
+    "name": "Lugares HORRIBLES para Vivir: Ciudad Bolivar",
+    "description": "En la década de 1940 comenzó la parcelación de grandes haciendas aledañas a la ciudad, conformándose los primeros asentamientos en la zona. En la década de 1950 se crean los barrios Meissen, San Francisco, México, Lucero e Ismael Perdomo, situados en las partes bajas y medias de la Localidad, y cuyos pobladores eran gentes venidas principalmente del Tolima, Boyacá y Cundinamarca. Se estima que para los años 1970 la población había ascendido a los 50 000 habitantes. El territorio de la localidad por entonces, pertenecía al otro municipio de Bosa.",
+    "type": "VIDEO",
+    "multimedia": "https://www.youtube.com/watch?v=_mqpU4kkaKI"
+  },
+  {
+    "name": "Puente del Indio Memorias y relatos",
+    "description": "En las entrañas de Ciudad Bolívar, Bogotá Colombia, se encuentra El PUENTE DEL INDIO, testigo mudo del territorio y los cambios que ha sufrido, del paso del ecosistema Subxerofítico al la  construcción de los barrios, EL PUENTE DEL INDIO guardián de la memoria de quienes lo construyeron  lo transitaron y lo cuidan.",
+    "type": "VIDEO",
+    "multimedia": "https://www.youtube.com/watch?v=ARnXosfQDv8"
+  },
+  {
+    "name": "Por la vida y la organización: No más La Sacan en Cerro Seco - #HistoriasLocales #CiudadBolivar",
+    "description": "HISTORIA DEL MOMIMIENTO NO LE SAQUE LA PIEDRA A LA MONTAÑA",
+    "type": "VIDEO",
+    "multimedia": "https://www.youtube.com/watch?v=7DcDDzX-Ig4"
   }
 ]

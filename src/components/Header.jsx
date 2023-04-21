@@ -1,10 +1,11 @@
 // Dependencias
 import React from "react";
+import { Link } from "react-router-dom";
+
 // Components
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
-import NavDropdown from "react-bootstrap/NavDropdown";
 
 // Estilos
 import "../styles/components/header.scss";
@@ -14,24 +15,22 @@ import generalData from "../_data/_general.json";
 
 const Header = () => {
   return (
-    <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" className="header">
+    <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" className="header" id="inicio">
       <Container>
-        <Navbar.Brand href="#home">
-          <a href="#">
-            <span>{generalData.titlePage}</span>
-          </a>
+        <Navbar.Brand href="#">
+          <span>{generalData.titlePage}</span>
         </Navbar.Brand>
         <section>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="me-auto">
-              <Nav.Link href="#inicio">Inicio</Nav.Link>
-              <Nav.Link href="#noticias">Noticias</Nav.Link>
-              <Nav.Link href="#bioindicadores">Bioindicadores</Nav.Link>
-              <Nav.Link href="#recursos">Recursos</Nav.Link>
+              <Link to="/">Inicio</Link>
+              <Link to="/#noticias">Noticias</Link>
+              <Link to="/bioindicadores">Bioindicadores</Link>
+              <Link to="/#recursos">Recursos</Link>
             </Nav>
             <Nav>
-              <Nav.Link href="#contacto">Contacto</Nav.Link>
+              <Link to="/#contacto">Contacto</Link>
             </Nav>
           </Navbar.Collapse>
         </section>
