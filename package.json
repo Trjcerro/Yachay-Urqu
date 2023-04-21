@@ -2,7 +2,7 @@
   "name": "bioindicadores",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Trjcerro.github.io/Yachay-Urqu",
+  "homepage": "https://trjcerro.github.io/Yachay-Urqu",
   "type": "module",
   "scripts": {
     "dev": "vite",
