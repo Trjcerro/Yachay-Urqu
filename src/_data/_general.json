@@ -7,5 +7,12 @@
   "bioindicadores": {
     "titleMain": "Buscador de bioindicadores",
     "textIntroductMain": "¡Descubre los bioindicadores más interesantes de nuestra región! En nuestro buscador encontrarás información detallada sobre su nombre, imagen, descripción, ubicación, departamento, municipio, localidad, coordenadas, latitud, longitud, elevación y hábitat. Conoce más sobre estos organismos y su importante papel en nuestro ecosistema. ¡Empieza a explorar ahora mismo!"
+  },
+  "contacto": {
+    "titleMain": "Contacto",
+    "textIntroductMain": "Aquí podras encontrar toda la información de contacto de las personas y organzaciones que han tenido aporte en el proyecto.",
+    "nameProyect": "Nombre del proyecto de trabajo de grado",
+    "descriptionProyect": "descripción del proyecto de trabajo de grado (corta)",
+    "linkProyect": "https://www.google.com"
   }
 }

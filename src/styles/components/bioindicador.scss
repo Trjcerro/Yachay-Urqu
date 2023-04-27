@@ -27,7 +27,7 @@
 
       width: 100%;
       max-height: 20rem;
-      overflow: hidden; 
+      overflow: hidden;
 
       img {
         width: 100%;
@@ -61,22 +61,6 @@
       padding: 1rem;
     }
 
-    #hexagono {
-      position: relative;
-      width: 45vw;
-      max-width: 30rem;
-      height: 45vw;
-      max-height: 30rem;
-      background-size: cover;
-      background-position: center;
-      clip-path: polygon(25% 8%, 75% 8%, 100% 50%, 75% 92%, 25% 92%, 0% 50%);
-      overflow-x: initial;
-
-      img {
-        width: 100%;
-      }
-    }
-
     span {
       padding: 1rem;
       background-color: grey;
@@ -105,6 +89,74 @@
       flex-direction: column;
       align-items: stretch;
       justify-content: center;
+    }
+  }
+}
+
+.modal {
+  .modal-header {
+    padding: 2rem;
+    .modal-title {
+      font-size: 2rem;
+    }
+
+    .btn-close {
+      margin-right: 1rem;
+    }
+  }
+
+  .modal-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 3rem;
+
+    #hexagono {
+      position: relative;
+      width: 45vw;
+      max-width: 30rem;
+      height: 45vw;
+      max-height: 30rem;
+      background-size: cover;
+      background-position: center;
+      clip-path: polygon(25% 8%, 75% 8%, 100% 50%, 75% 92%, 25% 92%, 0% 50%);
+      overflow-x: initial;
+      margin: 0;
+
+      img {
+        width: 100%;
+      }
+    }
+
+    span {
+      text-align: center;
+      font-size: 1.6rem;
+      color: var(--claro);
+      background-color: var(--azul);
+      border-radius: 5rem;
+      padding: 1rem;
+      margin: 1rem;
+      margin-bottom: 3rem;
+    }
+
+    p {
+      font-size: 1.6rem;
+    }
+
+    h3 {
+      font-size: 2rem;
+    }
+  }
+
+  .modal-footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    button {
+      max-width: 10rem;
+      font-size: 1.6rem;
     }
   }
 }
