@@ -4,6 +4,7 @@ import React, { useState } from "react";
 // Componentes
 import Header from "../components/Header";
 import Bioindicador from "../components/Bioindicador";
+import Footer from "../components/Footer";
 
 // Estilos
 import "../styles/pages/app.scss";
@@ -59,7 +60,7 @@ const Bioindicadores = () => {
   };
 
   return (
-    <div className="App">
+    <>
       {/*  Barra de navegación */}
       <Header />
 
@@ -84,7 +85,10 @@ const Bioindicadores = () => {
       {/* Sección de bioindicadores */}
 
       <section className="bioindicadores">{componentBioindicador}</section>
-    </div>
+
+      {/* Sección del footer */}
+      <Footer />
+    </>
   );
 };
 

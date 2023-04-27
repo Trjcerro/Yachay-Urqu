@@ -8,15 +8,18 @@
 }
 
 html {
+  height: 100%;
+  min-height: auto;
   font-size: 62.5%;
 }
 
 body {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  min-height: 100%;
+  height: 100%;
+  background-image: linear-gradient(to right, #08415256, #026a8a59), url("../assets/background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 body::-webkit-scrollbar {
@@ -29,26 +32,12 @@ body::-webkit-scrollbar-thumb {
 }
 
 #root {
+  display: flex;flex-direction: column;
   width: 100%;
-  min-height: 100vh;
-  background: linear-gradient(to right, #08415256, #026a8a59), url(../assets/background.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-}
-
-.App {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-
-  width: 100%;
-  max-width: 130rem;
   height: 100%;
+  max-width: 130rem;
 
-  padding: 7rem 2rem 2rem 2rem;
+  padding: 7rem 2rem 0rem 2rem;
   margin: auto;
 }
 

@@ -1,9 +1,9 @@
 // Dependencias
-import React, { useState } from "react";
+import React from "react";
 
 // Componentes
 import Header from "../components/Header";
-import NewsComponent from "../components/News";
+import Footer from "../components/Footer";
 
 // Estilos
 import "../styles/pages/app.scss";
@@ -11,9 +11,9 @@ import "../styles/pages/app.scss";
 // Variables
 import generalData from "../_data/_general.json";
 
-const Contacto = () => {
+const Creditos = () => {
   return (
-    <div className="App">
+    <>
       {/*  Barra de navegación */}
       <Header />
 
@@ -64,8 +64,11 @@ const Contacto = () => {
           </figure>
         </article>
       </section>
-    </div>
+
+       {/* Sección del footer */}
+       <Footer />
+    </>
   );
 };
 
-export default Contacto;
+export default Creditos;

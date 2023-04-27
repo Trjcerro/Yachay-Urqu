@@ -2,14 +2,14 @@
   "name": "bioindicadores",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://trjcerro.github.io/Yachay-Urqu",
+  "homepage": "https://trjcerro.github.io/Yachay-Urqu/",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@picocss/pico": "^1.5.7",
