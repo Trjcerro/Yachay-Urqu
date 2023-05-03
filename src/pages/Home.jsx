@@ -1,5 +1,5 @@
 // Dependencias
-import React, { useRef } from "react";
+import React from "react";
 
 // Componentes
 import Header from "../components/Header";
@@ -7,45 +7,54 @@ import Footer from "../components/Footer";
 
 // Estilos
 import "../styles/pages/app.scss";
+import "../styles/pages/home.scss";
 
 // Variables
 import generalData from "../_data/_general.json";
+import imgProblem from "../assets/iconos/nature.svg";
 
 function Home() {
-  const imicioRef = useRef(null);
-  const noticiasRef = useRef(null);
-  const recursosRef = useRef(null);
-
   return (
     <>
       {/*  Barra de navegación */}
       <Header />
 
-      {/* Sección de presentación inicial */}
-      <section className="initial">
-        <h1>{generalData.home.titleMain}</h1>
-        <span>{generalData.home.textIntroductMain}</span>
-      </section>
+      <main className="main_content">
+        {/* Sección de presentación inicial */}
+        <section className="initial">
+          <h1>{generalData.home.titleMain}</h1>
+          <span>{generalData.home.textIntroductMain}</span>
+        </section>
 
-      {/* Sección para la información general del lugar */}
-      <section className="information">
-        <figure>
-          <ion-icon name="location-outline"></ion-icon>
-          <figcaption>Item</figcaption>
-        </figure>
+        {/* Sección para la información general del lugar */}
+        <section className="information">
+          <figure>
+            <ion-icon name="location-outline"></ion-icon>
+            <figcaption>{generalData.home.items[0]}</figcaption>
+          </figure>
 
-        <figure>
-          <ion-icon name="diamond-outline"></ion-icon>
-          <figcaption>Item</figcaption>
-        </figure>
+          <figure>
+            <ion-icon name="leaf-outline"></ion-icon>
+            <figcaption>{generalData.home.items[1]}</figcaption>
+          </figure>
 
-        <figure>
-          <ion-icon name="man-outline"></ion-icon>
-          <figcaption>Item</figcaption>
-        </figure>
-      </section>
+          <figure>
+            <ion-icon name="man-outline"></ion-icon>
+            <figcaption>{generalData.home.items[2]}</figcaption>
+          </figure>
+        </section>
 
-      <section className="recursos"></section>
+        <section className="problem">
+          <figure>
+            <img src={imgProblem} alt="" />
+          </figure>
+          <article>
+            <h3>{generalData.home.titleProblem}</h3>
+            <p>{generalData.home.textProblem1}</p>
+            <p>{generalData.home.textProblem2}</p>
+          </article>
+        </section>
+      </main>
 
       {/* Sección del footer */}
       <Footer />

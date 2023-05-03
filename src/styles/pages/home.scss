@@ -1,0 +1,88 @@
+.information {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+  max-width: 130rem;
+  background-color: var(--azul);
+  padding: 3rem 2rem;
+  margin: 0;
+
+  figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+
+    ion-icon {
+      font-size: 4rem;
+      color: var(--claro);
+      margin-bottom: 1rem;
+    }
+
+    figcaption {
+      color: var(--claro);
+      font-size: 1.6rem;
+    }
+  }
+}
+
+.problem {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column-reverse;
+  background-color: var(--claro);
+  padding: 2rem;
+  margin: 0;
+
+  figure {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    height: 30rem;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    h3 {
+      font-size: 1.8rem;
+      color: var(--oscuro);
+    }
+
+    p {
+      font-size: 1.6rem;
+    }
+  }
+}
+
+@media (min-width: 800px) {
+  .problem {
+    flex-direction: row;
+    height: 100%;
+
+    figure {
+      width: 30%;
+      height: 100%;
+    }
+
+    article {
+      flex: 1;
+      width: 70%;
+      height: 100%;
+      box-shadow: none;
+      border: none;
+      padding: 0 4rem;
+      margin: 0;
+    }
+  }
+}

@@ -1,5 +1,5 @@
 footer {
-  align-self: end;
+  justify-self: end;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -9,6 +9,7 @@ footer {
 
   text-align: center;
   width: 100%;
+  max-width: 130rem;
   background: var(--azul);
   border-top: 1px solid var(--gris);
   color: var(--claro);
@@ -87,7 +88,7 @@ footer {
         align-items: center;
         justify-content: center;
         font-size: 1.4rem;
-        color: var(--claro);
+        color: var(--grisOscuro);
 
         margin-left: 1rem;
         margin: 1rem 0;
@@ -276,7 +277,7 @@ footer {
 
       .footer_initial_text_h1 {
         font-weight: normal;
-
+        color: var(--claro);
         a {
           color: var(--claro);
         }

@@ -8,6 +8,7 @@ import Footer from "../components/Footer";
 
 // Estilos
 import "../styles/pages/app.scss";
+import "../styles/pages/bioindicadores.scss";
 
 // Variables
 import generalData from "../_data/_general.json";
@@ -64,27 +65,29 @@ const Bioindicadores = () => {
       {/*  Barra de navegación */}
       <Header />
 
-      {/* Sección de presentación inicial */}
-      <section className="initial bio">
-        <h1 className="bio_title">{generalData.bioindicadores.titleMain}</h1>
-        <span className="bio_title">{generalData.bioindicadores.textIntroductMain}</span>
+      <main className="main_content">
+        {/* Sección de presentación inicial */}
+        <section className="initial bio">
+          <h1 className="bio_title">{generalData.bioindicadores.titleMain}</h1>
+          <span className="bio_title">{generalData.bioindicadores.textIntroductMain}</span>
 
-        <form className="buscador" onSubmit={filtrer}>
-          <label>
-            <input name="bioindicador" list="bioindicadores" placeholder="Busca por el nombre" required />
-            <datalist id="bioindicadores">{listNames}</datalist>
-            <button type="submit">Buscar</button>
-          </label>
+          <form className="buscador" onSubmit={filtrer}>
+            <label>
+              <input name="bioindicador" list="bioindicadores" placeholder="Busca por el nombre" required />
+              <datalist id="bioindicadores">{listNames}</datalist>
+              <button type="submit">Buscar</button>
+            </label>
 
-          <button type="button" onClick={showAll}>
-            Mostrar todos
-          </button>
-        </form>
-      </section>
+            <button type="button" onClick={showAll}>
+              Mostrar todos
+            </button>
+          </form>
+        </section>
 
-      {/* Sección de bioindicadores */}
+        {/* Sección de bioindicadores */}
 
-      <section className="bioindicadores">{componentBioindicador}</section>
+        <section className="bioindicadores">{componentBioindicador}</section>
+      </main>
 
       {/* Sección del footer */}
       <Footer />

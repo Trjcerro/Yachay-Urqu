@@ -13,38 +13,38 @@ const Footer = () => {
       <section className="footer_initial">
         <div className="footer_initial_social">
           <figure className="footer_initial_social_item">
-            <a href="" target="_blank" rel="noreferrer">
+            <a href="https://www.facebook.com/UniversidadPedagogicaNacional" target="_blank" rel="noreferrer">
               <ion-icon name="logo-facebook"></ion-icon>
             </a>
           </figure>
 
           <figure className="footer_initial_social_item">
-            <a href="" target="_blank" rel="noreferrer">
+            <a href="https://twitter.com/comunidadUPN" target="_blank" rel="noreferrer">
               <ion-icon name="logo-twitter"></ion-icon>
             </a>
           </figure>
 
           <figure className="footer_initial_social_item">
-            <a href="" target="_blank" rel="noreferrer">
+            <a href="https://www.instagram.com/upedagogicanacional/" target="_blank" rel="noreferrer">
               <ion-icon name="logo-instagram"></ion-icon>
             </a>
           </figure>
 
           <figure className="footer_initial_social_item">
-            <a href="" target="_blank" rel="noreferrer">
+            <a href="https://www.youtube.com/user/redacademica" target="_blank" rel="noreferrer">
               <ion-icon name="logo-youtube"></ion-icon>
             </a>
           </figure>
         </div>
 
-        <a href="" className="footer_initial_contact">
+        <a href="https://www.upn.edu.co/" className="footer_initial_contact">
           <h1 className="footer_initial_contact_h1">Contactenos</h1>
         </a>
 
         <div className="footer_initial_text">
           <h1 className="footer_initial_text_h1">
             Página desarrollada por el
-            <a href="" target="_blank" rel="noreferrer">
+            <a href="http://cinndet.upn.edu.co/" target="_blank" rel="noreferrer">
               CINNDET
             </a>
           </h1>
@@ -65,19 +65,33 @@ const Footer = () => {
         <article className="footer_main_article-info">
           <ul className="footer_main_list">
             <li className="footer_main_list_item">
-              <a href="">Privacidad y tratamiento de datos</a>
+              <a
+                href="http://gobiernodigital.pedagogica.edu.co/wp-content/uploads/2018/04/manual_politica_tratamiento_datos_personales_upn.pdf"
+                target="_blank"
+              >
+                Privacidad y tratamiento de datos
+              </a>
             </li>
 
             <li className="footer_main_list_item">
-              <a href="">Derechos de Autor</a>
+              <a
+                href="https://www.upn.edu.co/politica-de-derechos-de-autor-y-o-autorizacion-de-uso-sobre-los-contenidos"
+                target="_blank"
+              >
+                Derechos de Autor
+              </a>
             </li>
 
             <li className="footer_main_list_item">
-              <a href="">Términos y condiciones</a>
+              <a href="https://www.upn.edu.co/terminos-y-condiciones/" target="_blank">
+                Términos y condiciones
+              </a>
             </li>
 
             <li className="footer_main_list_item">
-              <a href="">Sistema de Gestión Integral</a>
+              <a href="https://upedagogicanacional.isolucion.co/Homes/HomeConsulta.aspx" target="_blank">
+                Sistema de Gestión Integral
+              </a>
             </li>
           </ul>
         </article>

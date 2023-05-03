@@ -1,18 +1,22 @@
 {
   "titlePage": "YACHAY URQU",
   "home": {
-    "titleMain": "Cerro Seco: Historia, Cultura y Biodiversidad desde la Perspectiva de los Pueblos Indígenas",
-    "textIntroductMain": "Bienvenidos al sitio web de Cerro Seco, una comunidad indígena ubicada en el corazón de la región andina de nuestro país. Este lugar ha sido el hogar ancestral de los pueblos indígenas durante siglos y es un importante centro de diversidad cultural y biodiversidad. En este sitio web, podrás conocer la historia, la cultura y la biodiversidad de Cerro Seco, desde la perspectiva de sus habitantes originarios. Explorarás sus tradiciones y costumbres, su relación con la naturaleza y su lucha por la defensa de sus derechos y su patrimonio cultural. Esperamos que disfrutes de esta experiencia educativa y enriquecedora."
+    "titleMain": "BIENVENIDO A YACHAY-URQU UN LUGAR DE CONOCIMIENTO SOBRE NUESTRA MONTAÑA",
+    "textIntroductMain": "En esta página podrás encontrar una asombrosa e interesante información sobre nuestro territorio 'Cerro Seco', observando las problemáticas, los proyectos, las formas de trabajar en este escenario, etc. Encontrando el gusto por saber más de este hermoso ecosistema.",
+    "items": ["Ciudad Bolivar, BOGOTA D.C", "Más de 250 organismos", "Historia y Cultura"],
+    "titleProblem": "Problematica en nuestro territorio",
+    "textProblem1": "El Parque Ecológico Cerro Seco, ubicado en límites de la localidad de Ciudad Bolívar y el municipio de Soacha, ha sido desde décadas defendido por la comunidad para que prime su conservación sobre los diferentes conflictos medioambientales que ejercen presión sobre la toma de esta zona. Según investigaciones el ecosistema subxerofítico podría comprender entre 365 y 500 hectáreas, de las cuales, mediante Resolución 1197 de 2013, se declararon 148,14 hectáreas de área protegida administradas por el Distrito en el parque metropolitano Arborizadora Alta, donde se ha encontrado especies de aves como el Cantor Sabanero y la Alondra Cornuda, las cuales se encuentran en vía de extinción. ",
+    "textProblem2": "Esta declaratoria prohibía todo tipo de actividades humanas que afectan el ecosistema, pero la magistrada Villamizar, en la Sentencia del Río Bogotá, ordenó al Ministerio de Ambiente definir las zonas compatibles con minería con el fin de proteger los valores ambientales de la Sabana mediante la Resolución 2001 de 2016, como esto no fue de su completo agrado suspendió parcialmente del acto administrativo y ordenó inspecciones judiciales a las zonas compatibles, para posteriormente exigir su cambio para excluir algunas y agregar otras."
   },
   "bioindicadores": {
     "titleMain": "Buscador de bioindicadores",
     "textIntroductMain": "¡Descubre los bioindicadores más interesantes de nuestra región! En nuestro buscador encontrarás información detallada sobre su nombre, imagen, descripción, ubicación, departamento, municipio, localidad, coordenadas, latitud, longitud, elevación y hábitat. Conoce más sobre estos organismos y su importante papel en nuestro ecosistema. ¡Empieza a explorar ahora mismo!"
   },
   "contacto": {
-    "titleMain": "Contacto",
+    "titleMain": "Información",
     "textIntroductMain": "Aquí podras encontrar toda la información de contacto de las personas y organzaciones que han tenido aporte en el proyecto.",
-    "nameProyect": "Nombre del proyecto de trabajo de grado",
-    "descriptionProyect": "descripción del proyecto de trabajo de grado (corta)",
+    "nameProyect": "DISEÑO E IMPLEMENTACIÓN DE UNA PAGINA WEB SOBRE BIOINDICADORES ATMOSFÉRICOS DE CERRO SECO PARA LA MOTIVACIÓN DE LA EDUCACIÓN AMBIENTAL EN ESTUDIANTES DEL ISPA",
+    "descriptionProyect": "Nuestro cerro, es un ecosistema subxerofítico, lo que significa que presenta vegetación de poca altura, posibilitando un ambiente óptimo para algunos organismos que son importantes para mantener un equilibrio ecosistémico. También fue lugar donde habitaban comunidades Muiscas que le dieron ese valor cultural y de apropiación, es así que, esta página nos mostrara lo fundamental que son estos seres que han venido reduciendo su número y catalogándose en peligro de extinción por la grande contaminación atmosférica. Por esta razón conocerás estos organismos que se catalogan como Bioindicadores de la calidad del ecosistema, que en este caso identificarán la calidad del aire que tú y yo estamos respirando. Es así que, Esperamos que disfrutes de esta experiencia educativa y enriquecedora y no se te olvide.... ¿Que estás haciendo por Cerro Seco?. ",
     "linkProyect": "https://www.google.com"
   }
 }
