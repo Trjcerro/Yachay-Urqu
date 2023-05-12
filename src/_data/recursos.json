@@ -60,10 +60,10 @@
     "multimedia": "https://oaica.car.gov.co/vercaso2.php?id=46"
   },
   {
-    "name": "potcast",
-    "description": "Descripcion del potcast",
-    "type": "Potcast",
-    "multimedia": ""
+    "name": "ESCCUCHANDO A NUESTROS LIDERES AMBIENTALES DE CERRO SECO",
+    "description": "Una lista de podcast dedicados a la educación ambiental y al cuidado del medio ambiente, enfocado en el Parque Ecológico Cerro Seco. En este podcast, contaremos con la experiencia y conocimientos de Líderes Ambientales, quienes nos dirán en sus propias palabras los que les ha trasmitido y enseñado Cerro Seco",
+    "type": "POTCAST",
+    "multimedia": "https://www.ivoox.com/accionando-hacia-planeta-mas-verde-empoderando-a-audios-mp3_rf_108052793_1.html"
   },
   {
     "name": "Alondra cornuda, Eremophila alpestris peregrina, Horned Lark, Sabana de Bogota, Aves de Bogota",
