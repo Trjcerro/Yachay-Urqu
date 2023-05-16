@@ -52,6 +52,15 @@ function Home() {
             <h3>{generalData.home.titleProblem}</h3>
             <p>{generalData.home.textProblem1}</p>
             <p>{generalData.home.textProblem2}</p>
+            <p className="vinculo">
+              Tomado de: <br />
+              <a
+                href="https://concejodebogota.gov.co/que-sucede-con-el-parque-ecologico-cerro-seco/cbogota/2021-08-24/162250.php "
+                target="_blank"
+              >
+                Alcaldia local de Ciudad Bolivar.
+              </a>
+            </p>
           </article>
         </section>
       </main>

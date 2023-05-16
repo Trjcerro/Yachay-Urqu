@@ -31,6 +31,18 @@ const Creditos = () => {
 
           <p>{generalData.contacto.descriptionProyect}</p>
 
+          <ul>
+            <li>
+              <strong>Contenidos y desarrollo investigativo: </strong>
+              <span>Cristian Camilo Gómez Lázaro</span>
+            </li>
+
+            <li>
+              <strong>Asesor investigativo: </strong>
+              <span>Diana Fabiola Moreno Sierra</span>
+            </li>
+          </ul>
+
           <a href={generalData.contacto.linkProyect} target="_blank">
             Visita el proyecto aquí.
           </a>
