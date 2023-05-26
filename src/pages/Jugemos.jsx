@@ -29,6 +29,10 @@ const Jugemos = () => {
             uso y aplicación en la evaluación ambiental. ¡No pierdas esta oportunidad de aprender jugando!
           </p>
 
+          <a className="btn" href="https://www.canva.com/design/DAFi_YqRfB0/O2A58vpnh30DclIH9b6NKg/view?utm_content=DAFi_YqRfB0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+            APRENDAMOS A JUGAR
+          </a>
+
           <iframe
             src="https://games.gdevelop-app.com/game-3c273626-5984-43dd-9000-cd50e1b4d771/index.html?userSlug=cerroseco2023&amp;gameSlug=video-juego-"
             allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr; keyboard-map *; focus-without-user-activation *; screen-wake-lock; clipboard-read; clipboard-write"

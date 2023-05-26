@@ -24,6 +24,10 @@ function Home() {
         <section className="initial">
           <h1>{generalData.home.titleMain}</h1>
           <span>{generalData.home.textIntroductMain}</span>
+
+          <a className="btn" href="https://www.ivoox.com/lideres-ambientales-de-cerro-seco_bk_list_10598114_1.html">
+            VOCES DE LA MONTAÑA
+          </a>
         </section>
 
         {/* Sección para la información general del lugar */}

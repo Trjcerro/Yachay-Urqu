@@ -45,7 +45,7 @@ const Bioindicador = ({
           <ListGroup className="list-group-flush">
             {location ? (
               <ListGroup.Item>
-                Pais: <span>{location}</span>
+                País: <span>{location}</span>
               </ListGroup.Item>
             ) : (
               false
